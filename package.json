@@ -1,0 +1,27 @@
+{
+  "name": "primes",
+  "version": "1.0.0",
+  "description": "a javascript program to get primes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olaFred/programming-logic-primes.git"
+  },
+  "keywords": [
+    "jasmine",
+    "javascript",
+    "test"
+  ],
+  "author": "Fred Adewole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olaFred/programming-logic-primes/issues"
+  },
+  "homepage": "https://github.com/olaFred/programming-logic-primes#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
